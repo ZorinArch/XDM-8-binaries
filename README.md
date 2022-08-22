@@ -10,6 +10,8 @@
 8b9dee75159d83fec087434a1734868d8a04eaadd093b990f6e155406fdd4261  xdman_gtk-8.0.1-1-x86_64.pkg.tar.zst
 ```
 
+### Windows version does not need to install it.
+
 ### Known issues in linux version (Hope XDM developer fix it soon):
 - Change language does not work.
 - In complete tab, if you select item and press delete does not work. **you can use `Removed finish downloads` from menu**

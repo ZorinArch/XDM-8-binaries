@@ -4,7 +4,7 @@
 
 **Binaries 100% virus and spyware free.**
 
-**sha265**
+**sha256**
 ```
 5cbbf78cc0eaf630b1af496fa7e2c50fe32b969c3a83979e54c5d79fbeb58f9e  XDM-8.0.1-windows-beta.7z
 8b9dee75159d83fec087434a1734868d8a04eaadd093b990f6e155406fdd4261  xdman_gtk-8.0.1-1-x86_64.pkg.tar.zst
